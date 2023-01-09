@@ -1,6 +1,6 @@
 # NLW eSports
 
-Este foi um curto evento que realizei com auxílio da Rocketseat na qual ensinava o básico de HTML e CSS. Em resumo, esse template é um filtro de lazeres para me conhecerem melhor, mostrando os streamers que assisto na Twitch e os jogos que tenho o costume de jogar.
+Esse foi um curto evento que realizei com auxílio da Rocketseat na qual ensinava o básico de HTML e CSS. Em resumo, esse template é um filtro de lazeres para me conhecerem melhor, mostrando os streamers que assisto na Twitch e os jogos que tenho o costume de jogar.
 
 ![preview](./.github/preview.png)
 
